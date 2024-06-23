@@ -1,7 +1,6 @@
 # Access-Key-Manager
-
-# Project Title: Access Key Manager
-# Project Objective
+Project Title: Access Key Manager
+Project Objective
 Micro-Focus Inc., a software company has built a school management platform that is 
 multitenant i.e., various schools can set up on the platform as though the platform was 
 built specifically for them. They have agreed to use an access key-based approach to 
