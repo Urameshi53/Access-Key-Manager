@@ -1,5 +1,15 @@
 # Access-Key-Manager
 
+# Project Title: Access Key Manager
+# Project Objective
+Micro-Focus Inc., a software company has built a school management platform that is 
+multitenant i.e., various schools can set up on the platform as though the platform was 
+built specifically for them. They have agreed to use an access key-based approach to 
+monetize it rather than building payment features into the school software. They have 
+decided to outsource the project to you, to build a key manager, a web application that
+schools can use to purchase access keys to activate their school account.
+
+
 Management System Dashboard
 ![Screenshot 2024-06-23 022222](https://github.com/Urameshi53/Access-Key-Manager/assets/84080570/386990a1-6a77-469c-8e48-9e2c3a29406e)
 
